@@ -63,3 +63,22 @@ print("5. Membership operators")
 numbers = [1, 2, 3, 4, 5]
 print(3 in numbers)  # Check if 3 is in the list
 print(6 not in numbers)  # Check if 6 is not in the list
+
+
+print("")
+print("----------------------------")
+
+print("type conversion")
+num1= 10
+num2 =12.5
+sum = num1 + num2
+print ("the sum of num1 and num2 is:", sum)
+print("")
+print("----------------------------")
+print("type casting ")
+num3 = 15
+num4 = 20.5
+num3 = float(num3)  # Convert num3 to float
+num4 = int(num4)  # Convert num4 to int
+print("num3 after type casting to float:", num3)
+print("num4 after type casting to int:", num4)
