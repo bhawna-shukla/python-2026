@@ -5,12 +5,6 @@ portable
 easy  to learn
 free and open source"""
 
-
-
-
-
-
-
 print("Welcome to my Github page")
 print("My name is Bhawna shukla")
 print("I am learning python for datat analysis")
