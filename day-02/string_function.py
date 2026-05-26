@@ -36,8 +36,11 @@ val1 = val.count("$")
 print(val1)
 
 #WAP to input user's  first name & print its  lenght
-name = input ("Enter your name 1:")
+name = input ("Enter your name :")
 name1 = len(name)
 print(name1)
-
-
+print("-------------")
+#Q7. Write a program to reverse a string.
+text = "Madam"
+reverse_text = text[::-1]
+print(reverse_text)
