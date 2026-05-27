@@ -31,3 +31,13 @@ elif (marks>=60 and marks<70):
     grade ="D"
 print("your grade is :",grade)
 print("---------------------------------")
+
+#nesting of if statement
+drive_age =int(input("enter your age:"))
+if drive_age >18:
+    if drive_age >=90:
+        print("you are too old to drive")
+    else:
+        print("yes you can drive")
+else:
+    print("you are not eligible to drive")
