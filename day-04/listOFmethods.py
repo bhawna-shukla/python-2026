@@ -26,3 +26,5 @@ print("-------------------------")
 #remove element  at index
 lists.pop(2)
 print(lists)
+  
+#python documentation
