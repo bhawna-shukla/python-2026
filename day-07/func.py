@@ -1,4 +1,12 @@
 #function definition
+# A function is a block of code which only runs when it is called.
+
+# A function can return data as a result.
+
+# A function helps avoiding code repetition.
+#In Python, a function is defined using the def keyword, followed by a function name and parentheses:
+
+
 
 def cal_sum(a,b): #parameters
     sum = a+b 
@@ -30,3 +38,5 @@ def avg_num(a,b,c):
     return avg
  
 avg_num(2,4,6)
+print("---------------------")
+
