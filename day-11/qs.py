@@ -14,3 +14,7 @@ class student():
 
 s1 = student("varsha",[90,80,99])
 s1.get_avg()
+
+s1.name = "lakshmi"
+s1.marks = [60,50,60]
+s1.get_avg()
