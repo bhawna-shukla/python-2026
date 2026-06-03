@@ -26,3 +26,7 @@ f.close()
 
 #2. "a" write ke baad mai jo bhi add karoge woh add ho jayega
 #"w+" isme over rite hoga like 
+
+
+
+
