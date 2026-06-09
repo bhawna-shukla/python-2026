@@ -26,5 +26,17 @@ print(acc1.account)
 print(acc1.balance)
 acc1.debit(1000)
 acc1.credit(30000)
-acc1.debit(10000)
-acc1.credit(30000)
+
+
+
+
+#del keyword
+class student:
+    def __init__(self,name):
+        self.name = name
+
+s1 = student("varsha")
+print(s1)
+
+del s1.name
+print(s1.name)
